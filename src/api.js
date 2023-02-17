@@ -4,7 +4,7 @@ let lastMessageId;
 export const fetchResponse = async chat => {
 	try {
 		// after depoloyment you should change the fetch URL below
-		const response = await fetch('https://dev-backend-xozz.vercel.app/', {
+		const response = await fetch('https://api.autoai.site/', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json'
