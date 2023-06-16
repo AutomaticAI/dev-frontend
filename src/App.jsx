@@ -30,7 +30,7 @@ function App() {
 
       {/* header */}
       <div className="uppercase font-bold  text-2xl text-center mb-3">
-        AutoAI | D-92
+        AutoAI | v3
       </div>
 
       {/* body */}
